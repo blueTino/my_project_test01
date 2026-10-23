@@ -10,3 +10,4 @@ const a = 10;
 - ansible 공부하기
 - Terraform 공부하기
 - docker 공부하기
+- ai 공부하기
